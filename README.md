@@ -12,9 +12,11 @@ To publish changes to your Hugo site, follow these steps:
    hugo
 
 3. **Navigate to the public directory:**
+   ```bash
    cd public
 
-4. **Commit and push the changes:**
-  git add .
-  git commit -m "Update Hugo site"
-  git push origin main
+5. **Commit and push the changes:**
+   ```bash
+   git add .
+   git commit -m "Update Hugo site"
+   git push origin main
